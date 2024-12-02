@@ -143,7 +143,7 @@ const styles = {
     gameOver: {
       marginTop: '20px',
       fontSize: '2em',
-      color: '#FF5733',
+      color: 'yellow',
     },
   };
   
